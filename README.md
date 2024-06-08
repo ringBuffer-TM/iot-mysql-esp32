@@ -14,6 +14,22 @@ We just use  :
 
 # Software needed for the implementation 
 ## WEB SIDE 
+**XAMPP for localhost developement 
+
+**VSCODE with live server plugin installed (optional but to make life easier)
+
+## ESP32 SIDE
+** Arduino IDE 
+
+Install the following libraries 
+
+'''bash 
+#include <WiFi.h>
+#include <HTTPClient.h>
+#include <Arduino_JSON.h>
+#include <DHT.h>
+'''
+
 
 
 
