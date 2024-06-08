@@ -34,6 +34,8 @@ Install the following libraries
 
 ![git_esp32](https://github.com/ringBuffer-TM/iot-mysql-esp32/assets/172147591/e6e31446-5ade-43c0-b845-2efa24561885)
 
+#SQL part 
+
 ```bash 
 
 //this table to display realtime data from esp32 I/O
@@ -67,7 +69,20 @@ CREATE TABLE `historicaldata` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 ```
+
+# Site architechture 
+
+![image](https://github.com/ringBuffer-TM/iot-mysql-esp32/assets/172147591/6ca691e7-7c75-4417-87eb-d29e6354422a)
+
 ![image](https://github.com/ringBuffer-TM/iot-mysql-esp32/assets/172147591/339489b6-fdb6-45ea-88fe-5fec653fde72)
+
+
+# Quick DEMO !!
+
+![image](https://github.com/ringBuffer-TM/iot-mysql-esp32/assets/172147591/420b353a-47ab-47ba-8cd7-8fc4cfe9dfa8)
+
+
+
 
 
 
