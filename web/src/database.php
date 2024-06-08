@@ -1,9 +1,9 @@
 <?php
 	class Database {
-		private static $dbName = 'if0_35733253_meelyl2telecom'; 
-		private static $dbHost = 'sql113.infinityfree.com';
-		private static $dbUsername = 'if0_35733253';
-		private static $dbUserPassword = 'cJGrslo5BxHeCK';
+		private static $dbName = ''; 
+		private static $dbHost = '';
+		private static $dbUsername = '';
+		private static $dbUserPassword = '';
 		 
 		private static $cont  = null;
 		 
