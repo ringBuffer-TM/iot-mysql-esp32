@@ -79,7 +79,14 @@ CREATE TABLE `historicaldata` (
 
 # Quick DEMO !!
 
+## main page
+
 ![image](https://github.com/ringBuffer-TM/iot-mysql-esp32/assets/172147591/9d193989-3a8a-4432-b8c5-52b03e696fdc)
+
+## Historical data page 
+
+![image](https://github.com/ringBuffer-TM/iot-mysql-esp32/assets/172147591/0365d4ae-dcb7-4c86-947e-764dcbccd090)
+
 
 
 
