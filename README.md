@@ -30,6 +30,13 @@ Install the following libraries
 #include <DHT.h>
 ```
 
+#How it works ?
+
+![git_esp32](https://github.com/ringBuffer-TM/iot-mysql-esp32/assets/172147591/e6e31446-5ade-43c0-b845-2efa24561885)
+
+
+
+
 
 
 
