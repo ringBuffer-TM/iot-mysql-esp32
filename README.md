@@ -10,3 +10,7 @@ We just use  :
 **DHT11/DHT22 to get the data from
 **2 LED's with 2 1.5 kOhm resistors to just send commands to the ESP32 via the web .
 
+# Software needed for the implementation 
+## WEB SIDE 
+
+
