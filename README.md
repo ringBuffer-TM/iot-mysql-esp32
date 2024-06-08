@@ -23,12 +23,12 @@ We just use  :
 
 Install the following libraries 
 
-'''bash 
+```bash 
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <Arduino_JSON.h>
 #include <DHT.h>
-'''
+```
 
 
 
