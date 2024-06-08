@@ -282,6 +282,6 @@
       //------------------------------------------------------------
     </script>
 
-     <h1><footer>Powered By YASSMINE BOUALI</footer></h1>
+     <h1><footer>Powered By ringBuffer@TM</footer></h1>
   </body>
 </html>
